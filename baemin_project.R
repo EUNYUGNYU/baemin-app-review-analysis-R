@@ -829,5 +829,3 @@ ggplot(ts_topic, aes(x=날짜, y=n, colour=factor(topic)))+
   theme(plot.title=element_text(size=25))
   
 
-
-[출처] # 97 ] R ggplot2(8) 산점도, 선(시계열) 그래프 geom_point, geom_line|작성자 지그드시
